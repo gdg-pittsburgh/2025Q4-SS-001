@@ -39,6 +39,6 @@ Join us for an exciting 30 minute rundown about the GDG Pittsburgh group goals, 
 
 ## Connect With Us
 
-- 📧 [Contact](mailto:gdgpittsburgh@gmail.com)
 - 🌐 [GDG Pittsburgh Community](https://gdg.community.dev/gdg-pittsburgh/)
+- 📧 [gdg.pittsburgh@gmail.com](mailto:gdg.pittsburgh@gmail.com)
 
