@@ -27,11 +27,12 @@ Join us for an exciting 30 minute rundown about the GDG Pittsburgh group goals, 
 - Women Techmakers
 
 ## Slide Deck
-- [Google Slides: Kick-Off Meet](https://docs.google.com/presentation/d/e/2PACX-1vTDoM1zyRH_xeEhypNI_5KWx7UC_obd79red-ksKzAc5tdQlmnVOndBciceo3k9P9RHBkgoe_k9PIPL/pub?start=false&loop=false&delayms=5000&slide=id.g33c5dfa68c7_4_266)
+- Google Slides [Kick-Off Deck](https://docs.google.com/presentation/d/e/2PACX-1vTDoM1zyRH_xeEhypNI_5KWx7UC_obd79red-ksKzAc5tdQlmnVOndBciceo3k9P9RHBkgoe_k9PIPL/pub?start=false&loop=false&delayms=5000&slide=id.g33c5dfa68c7_4_266)
+- Youtube [Kick-off Video](https://www.youtube.com/watch?v=_Ptnfx07f2o)
 
 ## About GDG Pittsburgh
 
-[GDG Pittsburgh](https://gdg.community.dev/gdg-pittsburgh/) is a community group for developers and tech enthusiasts interested in Google technologies and platforms.
+- [GDG Pittsburgh](https://gdg.community.dev/gdg-pittsburgh/) is a community group for developers and tech enthusiasts interested in Google technologies and platforms.
 
 ---
 
