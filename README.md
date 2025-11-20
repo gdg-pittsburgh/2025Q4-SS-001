@@ -26,7 +26,7 @@ Join us for an exciting 30 minute rundown about the GDG Pittsburgh group goals, 
 - Web
 - Women Techmakers
 
-[Kick-Off Slides](https://docs.google.com/presentation/d/e/2PACX-1vTDoM1zyRH_xeEhypNI_5KWx7UC_obd79red-ksKzAc5tdQlmnVOndBciceo3k9P9RHBkgoe_k9PIPL/pub?start=false&loop=false&delayms=5000&slide=id.g33c5dfa68c7_4_266)
+![Kick-Off Slides](https://docs.google.com/presentation/d/e/2PACX-1vTDoM1zyRH_xeEhypNI_5KWx7UC_obd79red-ksKzAc5tdQlmnVOndBciceo3k9P9RHBkgoe_k9PIPL/pub?start=false&loop=false&delayms=5000&slide=id.g33c5dfa68c7_4_266)
 
 ## About GDG Pittsburgh
 
